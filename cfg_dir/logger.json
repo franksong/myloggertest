@@ -1,0 +1,7 @@
+{	
+    "LogNumPreFile":    200000,
+    "comment1":         "日志等级：DEBUG:0,INFO:1,WARNING:2,ERROR:3,FATAL:4,NONE:5",
+    "LogLevel":         1,
+    "comment2":		"NewFileTime是自动创建新log文件时间间隔 单位小时",
+    "NewFile":		1
+}
