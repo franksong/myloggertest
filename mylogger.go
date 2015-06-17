@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/logger"
+	"github.com/franksong/logger"
 )
 
 func main() {
@@ -9,5 +9,5 @@ func main() {
 	logger.Info("test info!!!")
 	logger.Warning("test warning!!!")
 	logger.Error("test error!!!")
-	logger.Fatal("test fatal!!!")
+	// logger.Fatal("test fatal!!!")
 }
